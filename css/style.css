@@ -51,7 +51,7 @@ body {
 }
 
 a {
-  color: #76a532;
+  color: #89e30b;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -59,7 +59,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #76a532;
+  color: #89e30b;
   outline: none;
   text-decoration: none;
 }
@@ -83,17 +83,17 @@ figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #76a532;
+  background: #89e30b;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #76a532;
+  background: #89e30b;
 }
 
 ::selection {
   color: #fff;
-  background: #76a532;
+  background: #89e30b;
 }
 
 .gtco-container {
@@ -127,7 +127,7 @@ figure {
   font-weight: bold;
 }
 .gtco-nav #gtco-logo em {
-  color: #76a532;
+  color: #89e30b;
 }
 
 @media screen and (max-width: 768px) {
@@ -155,7 +155,7 @@ figure {
 .gtco-nav ul li a {
   font-size: 16px;
   padding: 30px 10px;
-  color: #76a532;
+  color: #89e30b;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -249,10 +249,10 @@ figure {
 }
 .gtco-nav ul li.has-dropdown:hover a,
 .gtco-nav ul li.has-dropdown:focus a {
-  color: #76a532;
+  color: #89e30b;
 }
 .gtco-nav ul li.btn-cta a {
-  color: #76a532;
+  color: #89e30b;
 }
 .gtco-nav ul li.btn-cta a span {
   background: #fff;
@@ -319,7 +319,7 @@ figure {
   margin-bottom: 0 !important;
 }
 .gtco-cover a {
-  color: #76a532;
+  color: #89e30b;
 }
 .gtco-cover a:hover {
   color: white;
@@ -455,7 +455,7 @@ figure {
   position: absolute;
   left: 0;
   top: -0.1em;
-  color: #76a532;
+  color: #89e30b;
   font-size: 22px !important;
 }
 .gtco-services .service p {
@@ -546,19 +546,19 @@ figure {
   right: 0;
   bottom: 0;
   opacity: 0.8;
-  background: #3dcdbc;
-  background: -moz-linear-gradient(left, #3dcdbc 0%, #76a532 100%);
+  background: #3dcd55;
+  background: -moz-linear-gradient(left, #3dcd55 0%, #89e30b 100%);
   background: -webkit-gradient(
     left top,
     right top,
-    color-stop(0%, #3dcdbc),
-    color-stop(100%, #76a532)
+    color-stop(0%, #3dcd55),
+    color-stop(100%, #89e30b)
   );
-  background: -webkit-linear-gradient(left, #3dcdbc 0%, #76a532 100%);
-  background: -o-linear-gradient(left, #3dcdbc 0%, #76a532 100%);
-  background: -ms-linear-gradient(left, #3dcdbc 0%, #76a532 100%);
-  background: linear-gradient(to right, #3dcdbc 0%, #76a532 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3dcdbc', endColorstr='#76a532', GradientType=1 );
+  background: -webkit-linear-gradient(left, #3dcd55 0%, #89e30b 100%);
+  background: -o-linear-gradient(left, #3dcd55 0%, #89e30b 100%);
+  background: -ms-linear-gradient(left, #3dcd55 0%, #89e30b 100%);
+  background: linear-gradient(to right, #3dcd55 0%, #89e30b 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3dcd55', endColorstr='#89e30b', GradientType=1 );
 }
 .gtco-products .gtco-item:hover .overlay {
   opacity: 1;
@@ -748,7 +748,7 @@ figure {
 .gtco-staff .fh5co-social li a,
 .gtco-item .fh5co-social li a {
   font-size: 20px;
-  color: #76a532;
+  color: #89e30b;
 }
 .gtco-staff .fh5co-social li a:hover,
 .gtco-item .fh5co-social li a:hover {
@@ -773,7 +773,7 @@ figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #76a532;
+  color: #89e30b;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -846,19 +846,19 @@ form label {
 }
 
 #gtco-header {
-  background: #3dcdbc;
-  background: -moz-linear-gradient(left, #3dcdbc 0%, #76a532 100%);
+  background: #3dcd55;
+  background: -moz-linear-gradient(left, #3dcd55 0%, #89e30b 100%);
   background: -webkit-gradient(
     left top,
     right top,
-    color-stop(0%, #3dcdbc),
-    color-stop(100%, #76a532)
+    color-stop(0%, #3dcd55),
+    color-stop(100%, #89e30b)
   );
-  background: -webkit-linear-gradient(left, #3dcdbc 0%, #76a532 100%);
-  background: -o-linear-gradient(left, #3dcdbc 0%, #76a532 100%);
-  background: -ms-linear-gradient(left, #3dcdbc 0%, #76a532 100%);
-  background: linear-gradient(to right, #3dcdbc 0%, #76a532 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3dcdbc', endColorstr='#76a532', GradientType=1 );
+  background: -webkit-linear-gradient(left, #3dcd55 0%, #89e30b 100%);
+  background: -o-linear-gradient(left, #3dcd55 0%, #89e30b 100%);
+  background: -ms-linear-gradient(left, #3dcd55 0%, #89e30b 100%);
+  background: linear-gradient(to right, #3dcd55 0%, #89e30b 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3dcd55', endColorstr='#89e30b', GradientType=1 );
 }
 #gtco-header p {
   color: #d3f1ed;
@@ -884,7 +884,7 @@ form label {
   margin-top: 0em;
 }
 #gtco-header .btn {
-  color: #76a532 !important;
+  color: #89e30b !important;
   text-shadow: none !important;
 }
 #gtco-header .header-img {
@@ -937,7 +937,7 @@ form label {
 #gtco-counter .counter {
   font-size: 50px;
   margin-bottom: 10px;
-  color: #76a532;
+  color: #89e30b;
   font-weight: 100;
   display: block;
 }
@@ -1273,9 +1273,9 @@ form label {
 }
 
 .btn-primary {
-  background: #76a532;
+  background: #89e30b;
   color: #fff;
-  border: 2px solid #76a532 !important;
+  border: 2px solid #89e30b !important;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -1285,13 +1285,13 @@ form label {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #76a532;
-  border: 2px solid #76a532;
+  color: #89e30b;
+  border: 2px solid #89e30b;
 }
 .btn-primary.btn-outline:hover,
 .btn-primary.btn-outline:focus,
 .btn-primary.btn-outline:active {
-  background: #76a532;
+  background: #89e30b;
   color: #fff;
 }
 
@@ -1488,7 +1488,7 @@ form label {
 .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #76a532;
+  border-color: #89e30b;
 }
 
 .row-pb-md {
@@ -1532,7 +1532,7 @@ form label {
   margin-left: 0px;
 }
 .gtco-nav .gtco-contact ul li a i {
-  color: #76a532;
+  color: #89e30b;
 }
 .gtco-nav .gtco-contact ul li a:hover i {
   color: #fff;
@@ -1551,7 +1551,7 @@ form label {
   width: 33.33%;
   float: left;
   padding: 30px;
-  background: #76a532;
+  background: #89e30b;
   position: relative;
   text-align: center;
 }
