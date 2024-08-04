@@ -546,19 +546,19 @@ figure {
   right: 0;
   bottom: 0;
   opacity: 0.8;
-  background: #3dcd55;
-  background: -moz-linear-gradient(left, #3dcd55 0%, #1fc33d 100%);
+  background: #1fc33d;
+  background: -moz-linear-gradient(left, #1fc33d 0%, #1fc33d 100%);
   background: -webkit-gradient(
     left top,
     right top,
-    color-stop(0%, #3dcd55),
+    color-stop(0%, #1fc33d),
     color-stop(100%, #1fc33d)
   );
-  background: -webkit-linear-gradient(left, #3dcd55 0%, #1fc33d 100%);
-  background: -o-linear-gradient(left, #3dcd55 0%, #1fc33d 100%);
-  background: -ms-linear-gradient(left, #3dcd55 0%, #1fc33d 100%);
-  background: linear-gradient(to right, #3dcd55 0%, #1fc33d 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3dcd55', endColorstr='#1fc33d', GradientType=1 );
+  background: -webkit-linear-gradient(left, #1fc33d 0%, #1fc33d 100%);
+  background: -o-linear-gradient(left, #1fc33d 0%, #1fc33d 100%);
+  background: -ms-linear-gradient(left, #1fc33d 0%, #1fc33d 100%);
+  background: linear-gradient(to right, #1fc33d 0%, #1fc33d 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1fc33d', endColorstr='#1fc33d', GradientType=1 );
 }
 .gtco-products .gtco-item:hover .overlay {
   opacity: 1;
@@ -846,19 +846,19 @@ form label {
 }
 
 #gtco-header {
-  background: #3dcd55;
-  background: -moz-linear-gradient(left, #3dcd55 0%, #1fc33d 100%);
+  background: #1fc33d;
+  background: -moz-linear-gradient(left, #1fc33d 0%, #1fc33d 100%);
   background: -webkit-gradient(
     left top,
     right top,
-    color-stop(0%, #3dcd55),
+    color-stop(0%, #1fc33d),
     color-stop(100%, #1fc33d)
   );
-  background: -webkit-linear-gradient(left, #3dcd55 0%, #1fc33d 100%);
-  background: -o-linear-gradient(left, #3dcd55 0%, #1fc33d 100%);
-  background: -ms-linear-gradient(left, #3dcd55 0%, #1fc33d 100%);
-  background: linear-gradient(to right, #3dcd55 0%, #1fc33d 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3dcd55', endColorstr='#1fc33d', GradientType=1 );
+  background: -webkit-linear-gradient(left, #1fc33d 0%, #1fc33d 100%);
+  background: -o-linear-gradient(left, #1fc33d 0%, #1fc33d 100%);
+  background: -ms-linear-gradient(left, #1fc33d 0%, #1fc33d 100%);
+  background: linear-gradient(to right, #1fc33d 0%, #1fc33d 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1fc33d', endColorstr='#1fc33d', GradientType=1 );
 }
 #gtco-header p {
   color: #d3f1ed;
